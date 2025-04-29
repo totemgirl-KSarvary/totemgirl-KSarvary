@@ -76,7 +76,7 @@ Currently boosting technical know-how through an intensive Digital Skills Bootca
 
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+**Skills Snapshot Languages**: Python, SQL, Data Manipulation: Pandas, NumPy, Data Visualisation: Matplotlib, Seaborn, Version Control: Git, GitHub
 
 ### Socials
 
