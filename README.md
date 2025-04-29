@@ -93,6 +93,14 @@ Python, SQL, Data Manipulation: Pandas, NumPy, Data Visualisation: Matplotlib, S
 
 <a href="http://www.github.com/totemgirl-KSarvary"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=totemgirl-KSarvary&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="http://www.github.com/YOUR-USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&show_icons=true&locale=en&layout=compact&bg_color=1c1917&text_color=ffffff&title_color=0891b2&hide_border=true" alt="Top Languages" />
+</a>
+
+<a href="http://www.github.com/totemgirl-KSarvary">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=totemgirl-KSarvary&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
 <!--
 **totemgirl-KSarvary/totemgirl-KSarvary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
