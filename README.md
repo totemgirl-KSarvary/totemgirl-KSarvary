@@ -13,11 +13,10 @@ Experienced professional with 15 years of varied London work experience now movi
 
 Currently boosting technical know-how through an intensive Digital Skills Bootcamp, eager to use this mix of people skills and data expertise to help organisations make smarter decisions. I recently completed a Data Bootcamp with Just IT on data analytics. 
 
-📊 Studying: Python, SQL, data visualisation tools (Matplotlib, Seaborn). 
--
+🌱📊  Studying: Python, SQL, data visualisation tools (Matplotlib, Seaborn). 
 🧩 Data cleaning, exploratory data analysis (EDA)
----------------------------------------------------
 🌐 Curious about web scraping and API integration. 
+🔭 I’m currently working on London-based sustainability projects
 
 
 [[[[[[----- EDIT BELOW !!!]]]]]]
@@ -98,16 +97,11 @@ https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&sho
 
 
 
-
-## Hi there 👋 
-
 <!--
 **totemgirl-KSarvary/totemgirl-KSarvary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
