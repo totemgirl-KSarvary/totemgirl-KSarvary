@@ -14,7 +14,7 @@ Experienced professional with 15 years of varied London work experience now movi
 Currently boosting technical know-how through an intensive Digital Skills Bootcamp, eager to use this mix of people skills and data expertise to help organisations make smarter decisions. I recently completed a Data Bootcamp with Just IT on data analytics. 
 
 📊 Studying: Python, SQL, data visualisation tools (Matplotlib, Seaborn). 
-----------------------
+-
 🧩 Data cleaning, exploratory data analysis (EDA)
 ---------------------------------------------------
 🌐 Curious about web scraping and API integration. 
