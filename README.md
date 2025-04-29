@@ -76,7 +76,8 @@ Currently boosting technical know-how through an intensive Digital Skills Bootca
 
 </p>
 
-**Skills Snapshot Languages**: Python, SQL, Data Manipulation: Pandas, NumPy, Data Visualisation: Matplotlib, Seaborn, Version Control: Git, GitHub
+**Skills Snapshot Languages**: 
+Python, SQL, Data Manipulation: Pandas, NumPy, Data Visualisation: Matplotlib, Seaborn, Version Control: Git, GitHub
 
 ### Socials
 
@@ -90,12 +91,7 @@ Currently boosting technical know-how through an intensive Digital Skills Bootca
 
 <a href="http://www.github.com/totemgirl-KSarvary"><img src="https://github-readme-streak-stats.herokuapp.com/?user=totemgirl-KSarvary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/totemgirl-KSarvary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=totemgirl-KSarvary&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
-
 <a href="http://www.github.com/totemgirl-KSarvary"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=totemgirl-KSarvary&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 
 <!--
 **totemgirl-KSarvary/totemgirl-KSarvary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
