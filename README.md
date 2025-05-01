@@ -35,9 +35,13 @@ Currently boosting technical know-how through an intensive Digital Skills Bootca
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: [ESG score of S&P stocks 2023-24](https://app.powerbi.com/view?r=eyJrIjoiNDBhNmUxYmYtYmFmYS00NWRiLThhM2QtNGE2ZTRmNTBmMjUwIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
+  - **Description**:  Environmental, Social, and Governance (ESG) Score of S&P Stocks (2023–2024) - This Power BI dashboard presents ESG metrics for S&P 500 companies across various GICS sectors. It includes:
+Bar Chart (Top Left): Comparison of environmental, social, governance, and total ESG scores by sector.
+Bar Chart (Top Right): Yearly ESG rating distribution by sector, with Financials and Industrials receiving the highest volume of ratings.
+Pie Chart (Bottom Left): Overall ESG risk distribution by sector, showing the highest proportion of risk in Industrials and Financials.
+Pie Chart (Bottom Right): Total ESG score contribution by sector, where Industrials and Financials again dominate.
+  - **Technologies Used**: Power BI. Source - (https://www.kaggle.com/datasets/rikinzala/s-and-p-500-esg-and-stocks-data-2023-24)
 
 ### Tableau
 - **Project Name**: [Project Title](link-to-project)
